@@ -41,27 +41,96 @@ c'est pourquoi je tiens à pouvoir dévelloper tout ces point pour arriver a plu
 
 # Challenge légaux
 
+### Article lié
+
+[OETV](https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr)
+
+![image](https://github.com/nathmo/velomobile/assets/15912256/c564c04e-94d6-462b-a00d-b0bd0a3e8fd5)
+
+![image](https://github.com/nathmo/velomobile/assets/15912256/3a6b388c-43fd-4d2b-9ade-3ccf02df0595)
+
+![image](https://github.com/nathmo/velomobile/assets/15912256/c503824d-82cf-49bc-85a1-f93463c2f00d)
+
+![image](https://github.com/nathmo/velomobile/assets/15912256/aa5f8bf8-7bbd-470b-8f25-ded7966d57d4)
+
+![image](https://github.com/nathmo/velomobile/assets/15912256/28e45b57-2d8a-47bd-a569-32c09cdc40f5)
+
+![image](https://github.com/nathmo/velomobile/assets/15912256/dc0ba641-09b1-4ee0-a253-615cc65d2711)
+
+![image](https://github.com/nathmo/velomobile/assets/15912256/37979023-b760-404c-8964-2215acbbf7f0)
+
+![image](https://github.com/nathmo/velomobile/assets/15912256/ffcb9ad8-eadc-4d9c-bbcd-4ce880ca53b4)
+
+![image](https://github.com/nathmo/velomobile/assets/15912256/ab72104a-839f-4854-9e9f-b5751ec8c61d)
+
+![image](https://github.com/nathmo/velomobile/assets/15912256/704a5a54-7d4f-4d6e-a082-b51ffc96a9a3)
+
+![image](https://github.com/nathmo/velomobile/assets/15912256/4b00e05e-6621-44f9-adaa-c7793b374c3f)
+
+![image](https://github.com/nathmo/velomobile/assets/15912256/031bebf9-73d7-45fe-b542-6581731a37eb)
+
+![image](https://github.com/nathmo/velomobile/assets/15912256/40d31198-f100-4af6-9258-a4425c3d6075)
+
+![image](https://github.com/nathmo/velomobile/assets/15912256/f036b25a-207b-4b5c-8353-3796c5d8a01c)
+
+![image](https://github.com/nathmo/velomobile/assets/15912256/a8c01b5b-a5e8-48c7-80d2-686f5e6f683f)
+
+
+
+
 # Challenge technique
 
 ### Système de direction
+Système différentiel à l'image des véhcule a chenilette ou les roues d'un coté tourne plus vite que l'autre.
+[un article qui compare les directions classique avec une direction différentielle](https://www.researchgate.net/publication/261192572_Differential_Speed_Steering_Control_for_Four-Wheel_Independent_Driving_Electric_Vehicle?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ)
+
+![image](https://github.com/nathmo/velomobile/assets/15912256/950e9bf2-ab61-462a-afa6-c7c3f08e56df)
+
+ce système pose quelque challenge en terme de controle mais permet un chassis plus simple et donc plus leger et robuste.
 
 ### Système de freinage
+frein régénératif, limite l'usure des freins et améliore l'autonomie.
+frein a disque standard de vélo. 4 roue donc redondance.
 
+### Transmission
+##### transmission éléctrique 
+routage simplifié, moins de pièce mobile, légèrement moins bonne éfficacité qu'un système directe à chaine.
+simplicité de rendre le vehicule 4wd
+##### transmission mécanique à chaine
+routage compliqué avec 4 roues, nécéssite un différientielle.
 ### Propulsion
+moteur éléctrique de faible puissance (100-500 W)
+peut onereux, version 4x4 avec grande redondance donc moins d'entretiens et meilleures tenu de route.
+- https://fr.aliexpress.com/item/1005004884524853.html
+- https://fr.aliexpress.com/item/1005005874887142.html
 
 ### Suspension
+en cours de réflexion. système actif ou passif ? architecture ? complexité ? comportement dans les virage ? encombrement ?
 
 ### Controle de la temperature
+pompe à chaleur ?
+système évaporatif a eau + chauffage dans le manche de commande + siège ?
 
-### Position du passagé et du pilote
+mientiens de la temperature des batteries ?
+
+### Ergonomie et Position du passagé et du pilote
+![image](https://github.com/nathmo/velomobile/assets/15912256/cdb40655-ad67-43a8-9215-9289cb098ee9)
+
+communication entre les personne ? mirroir ?
 
 ### Système de commande
+volant ? joystick ?
 
 ### Pilote automatique ?
+
 
 ### Canopé et carrosserie
 
 ### Cout de fabrication
+
+### lumière, signalisation
+ruban de led qui permet de faire a la fois feux de position et clignotant.
+phare avant LED ?
 
 # Challenge psychosociaux
 
