@@ -15,7 +15,7 @@ $$F=\frac{1}{2}\rho v^2 c_d A \text{ }$$
 
 $$A \text{ la surface frontale du véhicule en  } [m^{2}]$$
 
-$$c_d \text{ le coéfficient de trainé (petit nombre pour exprimer un corp aérodynamique)}$$
+$$c_d \text{ le coéfficient de trainé (plus il est petit, plus le corp est aérodynamique)}$$
 
 $$v \text{ la vitesse du véhicule en} [m/s]$$
 
