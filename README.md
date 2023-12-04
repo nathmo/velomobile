@@ -39,3 +39,41 @@ Il faut tenir compte de la durée et de la distance à parcourir, du cadre léga
 
 c'est pourquoi je tiens à pouvoir dévelloper tout ces point pour arriver a plus qu'un simple concept rendu par ordinateur mais a un vrai prototype viable commercialement qui permettrait réellement de réduire l'impacte des transport personnel sur le climat.
 
+# Challenge légaux
+
+# Challenge technique
+
+### Système de direction
+
+### Système de freinage
+
+### Propulsion
+
+### Suspension
+
+### Controle de la temperature
+
+### Position du passagé et du pilote
+
+### Système de commande
+
+### Pilote automatique ?
+
+### Canopé et carrosserie
+
+### Cout de fabrication
+
+# Challenge psychosociaux
+
+### un engin qui soit beau et désirable
+
+### biais d'appriori
+
+### prix de vente
+
+
+
+
+
+
+
