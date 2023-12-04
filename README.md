@@ -22,13 +22,16 @@ Pour cela nous pouvons réduire 3 chose. Le coeeficient de trainé, la surface f
 Hors pour la vitesse il s'agit d'un compromis car certe allé plus lentement réduis les dégat en cas d'accident il rend aussi le trajet plus long.
 C'est pourquoi je me suis concentré sur la réduction du coeeficient de trainé et de l'aire frontale.
 
-quelques exemple de [coeeficient de trainé](https://en.wikipedia.org/wiki/Drag_coefficient) pour comparaison. je vise un coeefficient de 0.1-0.2 avec une surface frontale de 0.5 m^2 
-![image](https://github.com/nathmo/velomobile/assets/15912256/6cf3151b-0b7a-4441-be17-9ceede0f71e5)
+quelques exemple de [coeeficient de trainé](https://en.wikipedia.org/wiki/Drag_coefficient) pour comparaison. je vise un coeefficient de 0.1-0.2 avec une surface frontale de 0.5 m^2 donc un total $c_dA$ de 0.05 m^2 (10 fois moins que celui d'une [voiture](https://en.wikipedia.org/wiki/Automobile_drag_coefficient))
 
+![image](https://github.com/nathmo/velomobile/assets/15912256/6cf3151b-0b7a-4441-be17-9ceede0f71e5)
 
 ![image](https://github.com/nathmo/velomobile/assets/15912256/c301caab-7291-426c-9b6d-bded240d8281)
 J'en suis arrivé a une architecture avec deux passagé allongé l'un derrière l'autre pour obtenir une forme pointue et allongé avec une surface frontale minimale.
 
-Pour comparaison une voiture à une surface frontale de 
-Avec une tel form
-En moyenne les européen roule entre 6 et 20 [km] par jour,
+
+Ma la réalité pratique est plus compliqué qu'une simple équation.
+Il faut tenir compte de la durée et de la distance à parcourir, du cadre légal, du confort des passagé, des apprioris, des contraintes de cout, de la tenue de route, du stockage de l'energie, de la recyclabilité, ...
+
+c'est pourquoi je tiens à pouvoir dévelloper tout ces point pour arriver a plus qu'un simple concept rendu par ordinateur mais a un vrai prototype viable commercialement qui permettrait réellement de réduire l'impacte des transport personnel sur le climat.
+
