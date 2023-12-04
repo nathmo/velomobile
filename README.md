@@ -12,10 +12,11 @@ hors dans la vie si laisse rouler une balle elle finira par s'arreté à cause d
 La première source de perte c'est l'air, en effet plus on circule vite, plus la résistance de l'air augmente
 
 $$F=\frac{1}{2}\rho v^2 c_d A$$
-$$A \text { la surface frontale du véhicule en  }[m^{2}]$$
-$$c_d \text {le coéfficient de trainé (petit nombre pour exprimer un corp aérodynamique)}$$
-$$v \text {la vitesse du véhicule en [m/s]}$$
-$$\rho \text {la densité de l'air ~1.2 }() [Kg/m^{3}])$$
+
+$$A \text{ la surface frontale du véhicule en  } [m^{2}]$$
+$$c_d \text{ le coéfficient de trainé (petit nombre pour exprimer un corp aérodynamique)}$$
+$$v \text{ la vitesse du véhicule en} [m/s]$$
+$$\rho \text{ la densité de l'air ~1.2 } [Kg/m^{3}])$$
 
 si on veux réduire les perte il faut que le résultat de cette équation sois aussi petit que possible. 
 Pour cela nous pouvons réduire 3 chose. Le coeeficient de trainé, la surface frontale et la vitesse.
