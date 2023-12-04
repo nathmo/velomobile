@@ -11,7 +11,7 @@ Pour comprendre l'origine du problème il faut se penser sur le fonctionnement �
 hors dans la vie si laisse rouler une balle elle finira par s'arreté à cause des pertes. Pour une voiture c'est la même chose.
 La première source de perte c'est l'air, en effet plus on circule vite, plus la résistance de l'air augmente
 
-$$F=\frac{1}{2}\rho v^2 c_d A \text{test}$$
+$$F=\frac{1}{2}\rho v^2 c_d A \text{ }$$
 
 $$A \text{ la surface frontale du véhicule en  } [m^{2}]$$
 
