@@ -22,11 +22,15 @@ Pour cela nous pouvons réduire 3 chose. Le coeeficient de trainé, la surface f
 Hors pour la vitesse il s'agit d'un compromis car certe allé plus lentement réduis les dégat en cas d'accident il rend aussi le trajet plus long.
 C'est pourquoi je me suis concentré sur la réduction du coeeficient de trainé et de l'aire frontale.
 
-quelques exemple de [coeeficient de trainé](https://en.wikipedia.org/wiki/Drag_coefficient) pour comparaison. je vise un coeefficient de 0.1-0.2 avec une surface frontale de 0.5 m^2 donc un total $c_dA$ de 0.05 m^2 (10 fois moins que celui d'une [voiture](https://en.wikipedia.org/wiki/Automobile_drag_coefficient))
+quelques exemple de [coeeficient de trainé](https://en.wikipedia.org/wiki/Drag_coefficient) pour comparaison. 
 
 ![image](https://github.com/nathmo/velomobile/assets/15912256/6cf3151b-0b7a-4441-be17-9ceede0f71e5)
 
+je vise un coeefficient de 0.1-0.2 avec une surface frontale de 0.5 m^2 donc un total $c_dA$ de 0.05 m^2 (10 fois moins que celui d'une [voiture](https://en.wikipedia.org/wiki/Automobile_drag_coefficient))
+
+
 ![image](https://github.com/nathmo/velomobile/assets/15912256/c301caab-7291-426c-9b6d-bded240d8281)
+
 J'en suis arrivé a une architecture avec deux passagé allongé l'un derrière l'autre pour obtenir une forme pointue et allongé avec une surface frontale minimale.
 
 
