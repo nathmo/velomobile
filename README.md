@@ -85,12 +85,27 @@ c'est pourquoi je tiens à pouvoir dévelloper tout ces point pour arriver a plu
 # Challenge technique
 
 ### Système de direction
-Système différentiel à l'image des véhcule a chenilette ou les roues d'un coté tourne plus vite que l'autre.
+https://en.wikipedia.org/wiki/Steering
+
+##### approche différentiel
+J'ai dabbord envisagé un Système différentiel à l'image des véhcule a chenilette ou les roues d'un coté tourne plus vite que l'autre.
 [un article qui compare les directions classique avec une direction différentielle](https://www.researchgate.net/publication/261192572_Differential_Speed_Steering_Control_for_Four-Wheel_Independent_Driving_Electric_Vehicle?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ)
 
 ![image](https://github.com/nathmo/velomobile/assets/15912256/950e9bf2-ab61-462a-afa6-c7c3f08e56df)
 
 ce système pose quelque challenge en terme de controle mais permet un chassis plus simple et donc plus leger et robuste.
+Le hic de cette approche est que les roue sont en dérrapage pendant les virage et par conséquence le véhicule n'est pas maniable a "grande" vitesse (passé 10 kmh)
+
+##### approche axe central
+design similaire à certaine machine de chantier avec un axe centrale.
+potentiellement plus simple. à étudier
+https://en.wikipedia.org/wiki/Articulated_vehicle
+
+##### approche ackerman
+similaire a la direction d'une voiture. semble mécaniquement compliqué et nécéssite beaucoup de pièce mais méthode prouvé qui fonctionne.
+
+##### approche roue indépendante
+chaque roue est monté sur un axe et peut etre tourné indépendament. pas forcement plus simple que l'approche ackerman mais a potentiellement certain avantage.
 
 ### Système de freinage
 frein régénératif, limite l'usure des freins et améliore l'autonomie.
@@ -102,11 +117,15 @@ routage simplifié, moins de pièce mobile, légèrement moins bonne éfficacit�
 simplicité de rendre le vehicule 4wd
 ##### transmission mécanique à chaine
 routage compliqué avec 4 roues, nécéssite un différientielle.
+variante traction du véhicule ?
+
 ### Propulsion
 moteur éléctrique de faible puissance (100-500 W)
 peut onereux, version 4x4 avec grande redondance donc moins d'entretiens et meilleures tenu de route.
 - https://fr.aliexpress.com/item/1005004884524853.html
 - https://fr.aliexpress.com/item/1005005874887142.html
+
+version traction avant envisageable aussi.
 
 ### Suspension
 en cours de réflexion. système actif ou passif ? architecture ? complexité ? comportement dans les virage ? encombrement ?
@@ -117,20 +136,28 @@ système évaporatif a eau + chauffage dans le manche de commande + siège ?
 
 mientiens de la temperature des batteries ?
 
+chauffer le passagé par l'habitacle
+
 ### Ergonomie et Position du passagé et du pilote
 ![image](https://github.com/nathmo/velomobile/assets/15912256/cdb40655-ad67-43a8-9215-9289cb098ee9)
 
 communication entre les personne ? mirroir ?
+confort semi couché ?
+vu du traffic sans se faire mal au cou
 
 ### Système de commande
 volant ? joystick ?
 
 ### Pilote automatique ?
-
+besoin d'avoir commande éléctrique ?
+mais système mécanique directe plus robuste
+hybride plus chère et lourd ?
 
 ### Canopé et carrosserie
 
 ### Cout de fabrication
+pas de composite, problème de recyclage et chère.
+Carrosserie en feuille de pet, résistant, léger, peu chère.
 
 ### lumière, signalisation
 ruban de led qui permet de faire a la fois feux de position et clignotant.
@@ -139,10 +166,17 @@ phare avant LED ?
 # Challenge psychosociaux
 
 ### un engin qui soit beau et désirable
+dans quelle mesure on peut tout faire avec un bon graphisme ?
+![image](https://github.com/nathmo/velomobile/assets/15912256/2eadd522-879d-4440-a752-34d1f0378999)
+
+importance de la forme de la carroserie ?
 
 ### biais d'appriori
+influence du prix ?
+rendre le véhicule désirable ?
 
 ### prix de vente
+moins de 2000 CHF moins chère que les vélo éléctrique et les voitures. confort de la voiture, vitesse supérieur a un vélo moteur
 
 # Autre
 ### Train
