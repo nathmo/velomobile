@@ -81,6 +81,9 @@ A l'image d'une vélo ou d'une moto qui s'incline dans les virage pour que la fo
 Comme nous avons une carroserie il est compliquer d'attendre du pilote de se pencher pour compenser cette effet mais il est possible d'utiliser la suspension pour s'incliné.
 (voir suspension active et semi active à air)
 
+https://en.wikipedia.org/wiki/Narrow-track_vehicle
+https://en.wikipedia.org/wiki/Bicycle_and_motorcycle_dynamics
+
 ### Sécurité
 
 #### Harnais
