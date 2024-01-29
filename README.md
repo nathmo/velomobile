@@ -86,11 +86,21 @@ https://en.wikipedia.org/wiki/Bicycle_and_motorcycle_dynamics
 
 ### Sécurité
 
+![a099855963b0d318891b1b163ed65761](https://github.com/nathmo/velomobile/assets/15912256/92c51a03-318b-457c-8b15-e243339389d8)
+
+#### Hauteur du véhicule
+pas trop bas, comparable au voiture standard, yeux à 140 cm du sol.
+
 #### Harnais
 ceintures de sécurité standard ? Harnais style avion de chasse ?
 
 #### Protection contre les tonneaux 
 Le chassis fait office de Roll cage pour proteger les occupants
+
+#### Crumple zone
+
+l'avant et l'arrière du chassis se déforme pour absorber les collision avant et arrière
+
 #### airbags
 prix ? fabricant ? fonctionnement ? capteurs ?
 
