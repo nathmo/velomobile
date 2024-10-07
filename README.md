@@ -1,6 +1,6 @@
 # ecosprint
 
-Cette page contiens quelques idée concernant le dévellopement d'un type de véhicule 20-50 plus éfficace qu'une voiture tout en ne pénalisant pas trop ni le temps de trajet ni le confort.
+Cette page contiens quelques idée concernant le dévellopement d'un type de véhicule 20-50 moins gourmand en énergie et en ressource qu'une voiture tout en ne pénalisant pas trop ni le temps de trajet ni le confort.
 
 # Le concept
 ![image](https://github.com/nathmo/velomobile/assets/15912256/69da165f-4358-4585-8511-32d21728ae27)
