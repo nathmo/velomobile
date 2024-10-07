@@ -23,7 +23,7 @@ $$\rho \text{ la densité de l'air ~1.2 } [Kg/m^{3}])$$
 
 si on veux réduire les perte il faut que le résultat de cette équation sois aussi petit que possible. 
 Pour cela nous pouvons réduire 3 chose. Le coeeficient de trainé, la surface frontale et la vitesse.
-Hors pour la vitesse il s'agit d'un compromis car certe allé plus lentement réduis les dégat en cas d'accident il rend aussi le trajet plus long.
+Hors pour la vitesse il s'agit d'un compromis car certe aller plus lentement réduis l'énérgie nécéssaire et les dégats en cas d'accident il rend aussi le trajet plus long.
 C'est pourquoi je me suis concentré sur la réduction du coeeficient de trainé et de l'aire frontale.
 
 quelques exemple de [coeeficient de trainé](https://en.wikipedia.org/wiki/Drag_coefficient) pour comparaison. 
